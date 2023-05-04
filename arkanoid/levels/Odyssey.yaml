@@ -1,0 +1,21 @@
+window:
+  width: 1200
+  height: 800
+  background: 'arkanoid/images/Odyssey.jpg'
+
+paddle:
+  width: 80
+  height: 5
+  speed: 5
+
+ball:
+  radius: 7
+  speed: 3
+
+block:
+  pad_w: 5
+  pad_h: 5
+  block_w: 20
+  block_h: 20
+  n: 100
+  m: 13

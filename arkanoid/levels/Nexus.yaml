@@ -1,0 +1,21 @@
+window:
+  width: 1200
+  height: 800
+  background: 'arkanoid/images/Nexus.jpg'
+
+paddle:
+  width: 500
+  height: 12
+  speed: 30
+
+ball:
+  radius: 20
+  speed: 10
+
+block:
+  pad_w: 10
+  pad_h: 10
+  block_w: 100
+  block_h: 50
+  n: 10
+  m: 5

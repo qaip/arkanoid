@@ -1,0 +1,21 @@
+window:
+  width: 1200
+  height: 800
+  background: 'arkanoid/images/Inferno.jpg'
+
+paddle:
+  width: 20
+  height: 150
+  speed: 18
+
+ball:
+  radius: 20
+  speed: 5
+
+block:
+  pad_w: 7
+  pad_h: 7
+  block_w: 20
+  block_h: 80
+  n: 40
+  m: 3

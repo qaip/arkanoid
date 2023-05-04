@@ -1,0 +1,21 @@
+window:
+  width: 1200
+  height: 800
+  background: 'arkanoid/images/Cascade.jpg'
+
+paddle:
+  width: 500
+  height: 10
+  speed: 30
+
+ball:
+  radius: 7
+  speed: 10
+
+block:
+  pad_w: 2
+  pad_h: 2
+  block_w: 50
+  block_h: 50
+  n: 22
+  m: 4

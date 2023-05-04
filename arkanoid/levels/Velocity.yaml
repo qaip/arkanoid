@@ -1,0 +1,21 @@
+window:
+  width: 1200
+  height: 800
+  background: 'arkanoid/images/Velocity.jpg'
+
+paddle:
+  width: 350
+  height: 40
+  speed: 40
+
+ball:
+  radius: 30
+  speed: 6
+
+block:
+  pad_w: 10
+  pad_h: 10
+  block_w: 100
+  block_h: 100
+  n: 10
+  m: 2
